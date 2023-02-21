@@ -2,10 +2,14 @@
 
 Put the files you want to translate among:
 - `Armors.json`
-- `Weapons.json`
-- `Items.json`
-- `Skills.json`
-- `Enemies.json`
-- `MapInfos.json`
 - `Classes.json`
+- `Enemies.json`
+- `Items.json`
+- `MapInfos.json`
+- `Skills.json`
 - `States.json`
+- `Weapons.json`
+
+Customs
+- `GalleryList.json`
+- `RubiList.json`
